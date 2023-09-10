@@ -1,0 +1,22 @@
+{
+  "name": "recode-vue-use-utils",
+  "version": "0.0.1",
+  "description": "Recode Vue use",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binhbdn/vueuse-recode-journey"
+  },
+  "keywords": [
+    "recode vueuse"
+  ],
+  "author": "BinhBdn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antfu/vue-use-utils/issues"
+  },
+  "homepage": "https://github.com/antfu/vue-use-utils#readme"
+}
